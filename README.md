@@ -11,3 +11,4 @@ Also working with 3,5 inch display. Instrudtions to setup available on http://ww
   - time
   - tkinter
   - requests 
+  - speedtest-cli
