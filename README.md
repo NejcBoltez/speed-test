@@ -1,2 +1,2 @@
-# speed-test
-Python script to test internet speed on Rpi. Testes on Rpi3 model B+
+# Python test Internet speed
+Python script to test internet speed on Rpi. Tested on Rpi3 model B+.
